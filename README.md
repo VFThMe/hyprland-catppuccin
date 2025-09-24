@@ -39,3 +39,8 @@ sudo pacman -S hyprshot
 ```bash
 sudo pacman -S pfetch
 ```
+
+# Screenshots
+-----------------
+<img width="2882" height="1802" alt="2025-09-25-004806_hyprshot" src="https://github.com/user-attachments/assets/2ecaf071-d3ba-48f0-8315-91f7b2f9b3ac" />
+<img width="2882" height="1802" alt="2025-09-23-003951_hyprshot" src="https://github.com/user-attachments/assets/8cb2e18b-4d88-4a34-a2ec-129164edfc2d" />
